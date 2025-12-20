@@ -1,0 +1,7 @@
+openai>=1.0.0
+networkx>=3.0
+python-dotenv>=1.0.0
+numpy
+scikit-learn
+tiktoken
+langchain-core
